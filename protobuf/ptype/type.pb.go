@@ -7,8 +7,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	any "github.com/golang/protobuf/ptypes/any"
+	proto "github.com/catper/protobuf/proto"
+	any "github.com/catper/protobuf/ptypes/any"
 	source_context "google.golang.org/genproto/protobuf/source_context"
 )
 

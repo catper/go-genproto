@@ -8,7 +8,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
+	proto "github.com/catper/protobuf/proto"
 	enums "google.golang.org/genproto/googleapis/ads/googleads/v3/enums"
 	resources "google.golang.org/genproto/googleapis/ads/googleads/v3/resources"
 	_ "google.golang.org/genproto/googleapis/api/annotations"

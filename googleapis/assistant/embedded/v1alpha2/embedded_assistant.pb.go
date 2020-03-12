@@ -8,7 +8,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
+	proto "github.com/catper/protobuf/proto"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	latlng "google.golang.org/genproto/googleapis/type/latlng"
 	grpc "google.golang.org/grpc"

@@ -8,8 +8,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	empty "github.com/golang/protobuf/ptypes/empty"
+	proto "github.com/catper/protobuf/proto"
+	empty "github.com/catper/protobuf/ptypes/empty"
 	resources "google.golang.org/genproto/googleapis/ads/googleads/v3/resources"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	longrunning "google.golang.org/genproto/googleapis/longrunning"

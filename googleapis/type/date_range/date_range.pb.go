@@ -7,7 +7,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
+	proto "github.com/catper/protobuf/proto"
 	date "google.golang.org/genproto/googleapis/type/date"
 )
 

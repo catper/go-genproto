@@ -13,7 +13,7 @@ if [[ `go version` != *"go1.13"* ]]; then
 fi
 
 go install \
-  github.com/golang/protobuf/protoc-gen-go \
+  github.com/catper/protobuf/protoc-gen-go \
   golang.org/x/tools/cmd/goimports
 
 # Fail if a dependency was added without the necessary go.mod/go.sum change

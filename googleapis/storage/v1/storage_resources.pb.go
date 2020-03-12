@@ -7,9 +7,9 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	timestamp "github.com/golang/protobuf/ptypes/timestamp"
-	wrappers "github.com/golang/protobuf/ptypes/wrappers"
+	proto "github.com/catper/protobuf/proto"
+	timestamp "github.com/catper/protobuf/ptypes/timestamp"
+	wrappers "github.com/catper/protobuf/ptypes/wrappers"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

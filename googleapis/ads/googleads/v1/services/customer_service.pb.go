@@ -8,8 +8,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	_ "github.com/golang/protobuf/ptypes/wrappers"
+	proto "github.com/catper/protobuf/proto"
+	_ "github.com/catper/protobuf/ptypes/wrappers"
 	resources "google.golang.org/genproto/googleapis/ads/googleads/v1/resources"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 	field_mask "google.golang.org/genproto/protobuf/field_mask"

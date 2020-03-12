@@ -7,7 +7,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
+	proto "github.com/catper/protobuf/proto"
 	provenance "google.golang.org/genproto/googleapis/devtools/containeranalysis/v1beta1/provenance"
 )
 

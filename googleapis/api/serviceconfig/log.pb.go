@@ -7,7 +7,7 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
+	proto "github.com/catper/protobuf/proto"
 	label "google.golang.org/genproto/googleapis/api/label"
 )
 

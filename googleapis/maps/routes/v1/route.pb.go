@@ -7,8 +7,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	duration "github.com/golang/protobuf/ptypes/duration"
+	proto "github.com/catper/protobuf/proto"
+	duration "github.com/catper/protobuf/ptypes/duration"
 	viewport "google.golang.org/genproto/googleapis/geo/type/viewport"
 	money "google.golang.org/genproto/googleapis/type/money"
 )

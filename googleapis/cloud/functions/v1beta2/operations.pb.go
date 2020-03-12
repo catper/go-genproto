@@ -7,9 +7,9 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	any "github.com/golang/protobuf/ptypes/any"
-	timestamp "github.com/golang/protobuf/ptypes/timestamp"
+	proto "github.com/catper/protobuf/proto"
+	any "github.com/catper/protobuf/ptypes/any"
+	timestamp "github.com/catper/protobuf/ptypes/timestamp"
 	_ "google.golang.org/genproto/googleapis/api/annotations"
 )
 

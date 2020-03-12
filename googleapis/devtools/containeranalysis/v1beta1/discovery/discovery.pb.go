@@ -7,8 +7,8 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	timestamp "github.com/golang/protobuf/ptypes/timestamp"
+	proto "github.com/catper/protobuf/proto"
+	timestamp "github.com/catper/protobuf/ptypes/timestamp"
 	common "google.golang.org/genproto/googleapis/devtools/containeranalysis/v1beta1/common"
 	status "google.golang.org/genproto/googleapis/rpc/status"
 )

@@ -7,9 +7,9 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	any "github.com/golang/protobuf/ptypes/any"
-	_struct "github.com/golang/protobuf/ptypes/struct"
+	proto "github.com/catper/protobuf/proto"
+	any "github.com/catper/protobuf/ptypes/any"
+	_struct "github.com/catper/protobuf/ptypes/struct"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

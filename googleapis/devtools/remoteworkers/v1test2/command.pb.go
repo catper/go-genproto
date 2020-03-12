@@ -7,9 +7,9 @@ import (
 	fmt "fmt"
 	math "math"
 
-	proto "github.com/golang/protobuf/proto"
-	any "github.com/golang/protobuf/ptypes/any"
-	duration "github.com/golang/protobuf/ptypes/duration"
+	proto "github.com/catper/protobuf/proto"
+	any "github.com/catper/protobuf/ptypes/any"
+	duration "github.com/catper/protobuf/ptypes/duration"
 	status "google.golang.org/genproto/googleapis/rpc/status"
 )
 
